@@ -11,9 +11,9 @@
 * There are various traps and things you need to dodge and avoid them at all cost
 
 ## Objective:
-* Collect all of the token
+* Collect all of the tokens
 
-* After you have done so, find your way to the green finish point.
+* After you have done so, find your way to the green finish point
 
 * You win!
 
