@@ -25,7 +25,7 @@ avoid them and complete the labyrinth.
 
 ## Unique Objects:
 * Sawblades that go side to side and when they hit walls they go back to the other side
-* Arrows that spawn and when they hit the other side it goes back to its orgin
+* Tridents that spawn and when they hit the other side it goes back to its orgin
 
 # Link:
 https://arcade.makecode.com/#editor
