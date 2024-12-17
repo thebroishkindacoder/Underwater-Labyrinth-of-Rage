@@ -13,7 +13,7 @@
 ## Objective:
 * Collect all of the tokens
 
-* After you have done so, find your way to the green finish point
+* After you have done so, find your way to the blue finish point
 
 * You win!
 
