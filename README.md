@@ -8,6 +8,8 @@
 ## Gameplay:
 * There are tokens all throughout the map, collect them
 
+* There are also few speed boosts around the maze and when you obtain them you go 1.5x faster for 10 seconds
+
 * There are various traps and things you need to dodge and avoid them at all cost
 
 ## Objective:
@@ -28,4 +30,4 @@ avoid them and complete the labyrinth.
 * Tridents that spawn and when they hit the other side it goes back to its orgin
 
 # Link:
-https://arcade.makecode.com/#editor
+https://arcade.makecode.com/S39077-01538-87985-45986
