@@ -17,7 +17,7 @@
 
 * After you have done so, find your way to the blue finish point
 
-* You win!
+* You win and your time is your score, the higher the score the better!
 
 ## Description
 The Underwater Maze of Rage can be annoying and 
